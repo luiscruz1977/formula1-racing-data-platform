@@ -108,8 +108,10 @@ formula1-racing-data-platform/
 │   ├── gold/
 │   └── utilities/
 │
+├── sql/
 ├── src/
 ├── tests/
+├── LICENSE
 ├── README.md
 └── requirements.txt
 ```
